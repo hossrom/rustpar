@@ -1,0 +1,1 @@
+/Users/di75tiw/eclipse-workspace/new_rust_project/target/debug/new_rust_project: /Users/di75tiw/eclipse-workspace/new_rust_project/src/cli.rs /Users/di75tiw/eclipse-workspace/new_rust_project/src/main.rs
